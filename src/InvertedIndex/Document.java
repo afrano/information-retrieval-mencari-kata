@@ -4,10 +4,6 @@
  */
 package InvertedIndex;
 
-/**
- *
- * @author basis28
- */
 public class Document implements Comparable {
 
     protected String document;
